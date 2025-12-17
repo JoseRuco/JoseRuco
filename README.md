@@ -1,9 +1,10 @@
+<p align="center">
+ 👋 Welcome to my Git, my name is <b >Jose Ruco </b>, a programming student 💻
+<p>  
+
 <p align="center" 
-  font-size=50>
-  👋 Welcome to my Git, my name is Jose Ruco, a programming student 💻
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D10000&center=true&vCenter=true&multiline=true&width=435&height=200&lines=Programmer+%7BJR%7D+SOFTWARE+SOLUTIONS;+Passionate+about+technology+;+Developer+Full-Stack;+Always+learning+;+Autodidact" alt="Typing SVG" /></a>
   
   <p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=Programmer{JR}+SOFTWARE+SOLUTIONS;++;Self-taught+Full+Stack+Developer,;Computer+Science+Student,;Newbie,;Active+Learner/Researcher,;Ready+to+learn+new+things"></a>
-</p>
+
